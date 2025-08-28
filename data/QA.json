@@ -1,0 +1,47 @@
+[
+    {
+        "question": "桡骨远端骨折是指发生在桡骨远端（  ）cm以内的骨折。",
+        "options": [
+            {"label": "A", "text": "1", "correct": false},
+            {"label": "B", "text": "2", "correct": true},
+            {"label": "C", "text": "3", "correct": false},
+            {"label": "D", "text": "4", "correct": false}
+        ]
+    },
+    {
+        "question": "桡骨远端平均掌倾角为（）°，平均尺偏角（）°。",
+        "options": [
+            {"label": "A", "text": "11、24", "correct": false},
+            {"label": "B", "text": "24、11", "correct": true},
+            {"label": "C", "text": "12、15", "correct": false},
+            {"label": "D", "text": "30、15", "correct": false}
+        ]
+    },
+    {
+        "question": "Colles骨折侧位观呈现（    ）畸形。",
+        "options": [
+            {"label": "A", "text": "爪形手", "correct": false},
+            {"label": "B", "text": "枪刺样", "correct": false},
+            {"label": "C", "text": "靴样", "correct": false},
+            {"label": "D", "text": "餐叉样", "correct": true}
+        ]
+    },
+    {
+        "question": "伸直型桡骨远端骨折整复后应将腕关节固定于（ ）。",
+        "options": [
+            {"label": "A", "text": "掌倾尺偏位", "correct": true},
+            {"label": "B", "text": "掌倾桡偏位", "correct": false},
+            {"label": "C", "text": "背伸尺偏位", "correct": false},
+            {"label": "D", "text": "背伸桡偏位", "correct": false}
+        ]
+    },
+    {
+        "question": "屈曲型桡骨远端骨折整复后应将腕关节固定于（）。",
+        "options": [
+            {"label": "A", "text": "掌倾尺偏位", "correct": true},
+            {"label": "B", "text": "掌倾桡偏位", "correct": false},
+            {"label": "C", "text": "背伸尺偏位", "correct": false},
+            {"label": "D", "text": "背伸桡偏位", "correct": false}
+        ]
+    }
+]

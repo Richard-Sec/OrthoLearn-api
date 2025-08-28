@@ -1,0 +1,2 @@
+flask
+gunicorn  # 生产环境服务器
